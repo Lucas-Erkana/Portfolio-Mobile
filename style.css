@@ -149,7 +149,7 @@ background: #000000;
   left: 336px;
   top: 17.33px;
 }
-.battery #capacity {
+.battery #capacity{
   position: absolute;
   width: 18px;
   height: 7.33px;
@@ -158,15 +158,15 @@ background: #000000;
   background: #000000;
   border-radius: 1.33333px;
 }
-.battery #cap{
+.battery #cap {
   position: absolute;
-width: 1.33px;
-height: 4px;
-right: 14.67px;
-top: 21px;
-background: #000000;
-mix-blend-mode: normal;
-opacity: 0.4;
+  width: 1.33px;
+  height: 4px;
+  right: 14.67px;
+  top: 21px;
+  background: #000000;
+  mix-blend-mode: normal;
+  opacity: 0.4;
 }
 .battery #border{
   box-sizing: border-box;
