@@ -65,8 +65,8 @@ body {
   background: #000000;
   border-color: black;
 }
-.cellularbar {
-  position: relative;
+.cellularbars {
+  /* position: relative; */
   float: right;
 }
 .logo img{
@@ -117,7 +117,69 @@ body {
  border: 2px solid #ACB7C3;
  float:right
 }
+#wifibar1 {
+  position: absolute;
+width: 15.27px;
+height: 4.74px;
+right: 44.03px;
+top: 17.33px;
+background: #000000;
+}
 
+#wifibar2{
+  position: absolute;
+  width: 9.95px;
+  height: 3.63px;
+  right: 46.69px;
+  top: 21.12px;
+  background: #000000;
+}
+#wifibar3{
+  position: absolute;
+  width: 4.63px;
+  height: 3.37px;
+  right: 49.36px;
+  top: 24.92px;
+  background: #000000;
+}
+.battery{
+  position: absolute;
+  width: 24.33px;
+  height: 11.33px;
+  left: 336px;
+  top: 17.33px;
+}
+.battery #capacity {
+  position: absolute;
+  width: 18px;
+  height: 7.33px;
+  right: 19px;
+  top: 19.33px;
+  background: #000000;
+  border-radius: 1.33333px;
+}
+.battery #cap{
+  position: absolute;
+width: 1.33px;
+height: 4px;
+right: 14.67px;
+top: 21px;
+background: #000000;
+mix-blend-mode: normal;
+opacity: 0.4;
+}
+.battery #border{
+  box-sizing: border-box;
+  position: absolute;
+  width: 22px;
+  height: 11.33px;
+  right: 17px;
+  top: 17.33px;
+  mix-blend-mode: normal;
+  opacity: 0.35;
+  border: 1px solid #000000;
+  border-radius: 2.66667px;
+}
 .union{
 position: relative;
 width: 18px;
