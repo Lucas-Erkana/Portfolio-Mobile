@@ -168,7 +168,7 @@ background: #000000;
   mix-blend-mode: normal;
   opacity: 0.4;
 }
-.battery #border{
+.battery #border {
   box-sizing: border-box;
   position: absolute;
   width: 22px;
