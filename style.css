@@ -29,42 +29,6 @@ body {
   letter-spacing: -0.28px;
   color: #000000;
 }
-#bar1 {
-  position: absolute;
-  width: 3px;
-  height: 10.67px;
-  right: 64.33px;
-  top: 17.67px;
-  background: #000000;
-  border-color: black;
-}
-#bar2 {
-  position: absolute;
-  width: 3px;
-  height: 8.33px;
-  right: 69px;
-  top: 20px;
-  background: #000000;
-  border-color: black;
-}
-#bar3 {
-  position: absolute;
-  width: 3px;
-  height: 6px;
-  right: 73.67px;
-  top: 22.33px;
-  background: #000000;
-  border-color: black;
-}
-#bar4 {
-  position: absolute;
-  width: 3px;
-  height: 4px;
-  right: 78.33px;
-  top: 24.33px;
-  background: #000000;
-  border-color: black;
-}
 .cellularbars {
   /* position: relative; */
   float: right;
@@ -88,7 +52,6 @@ body {
   order: 0;
   flex-grow: 0;
 }
-
 #line1{
   position: absolute;
   left: 16.67%;
@@ -125,7 +88,6 @@ right: 44.03px;
 top: 17.33px;
 background: #000000;
 }
-
 #wifibar2{
   position: absolute;
   width: 9.95px;
@@ -192,4 +154,40 @@ background: #000000;
 }
 #logo {
   float: left;
+}
+#bar1 {
+  position: absolute;
+  width: 3px;
+  height: 10.67px;
+  right: 64.33px;
+  top: 17.67px;
+  background: #000000;
+  border-color: black;
+}
+#bar2 {
+  position: absolute;
+  width: 3px;
+  height: 8.33px;
+  right: 69px;
+  top: 20px;
+  background: #000000;
+  border-color: black;
+}
+#bar3 {
+  position: absolute;
+  width: 3px;
+  height: 6px;
+  right: 73.67px;
+  top: 22.33px;
+  background: #000000;
+  border-color: black;
+}
+#bar4 {
+  position: absolute;
+  width: 3px;
+  height: 4px;
+  right: 78.33px;
+  top: 24.33px;
+  background: #000000;
+  border-color: black;
 }
