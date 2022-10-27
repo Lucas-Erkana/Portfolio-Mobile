@@ -180,17 +180,15 @@ background: #000000;
   border: 1px solid #000000;
   border-radius: 2.66667px;
 }
-.union{
-position: relative;
-width: 18px;
-height: 12px;
-left: 3px;
-top: 6px;
-background: #6070FF;
-/* align-items: flex-end; */
-/* margin-left: 350px; */
-position: relative;
-float:right;
+.union {
+  position: relative;
+  width: 18px;
+  height: 12px;
+  left: 3px;
+  top: 6px;
+  background: #6070FF;
+  position: relative;
+  float:right;
 }
 #logo{
   float: left;
