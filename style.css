@@ -38,7 +38,7 @@ body {
   background: #000000;
   border-color: black;
 }
-#bar2{
+#bar2 {
   position: absolute;
   width: 3px;
   height: 8.33px;
@@ -47,7 +47,7 @@ body {
   background: #000000;
   border-color: black;
 }
-#bar3{
+#bar3 {
   position: absolute;
   width: 3px;
   height: 6px;
@@ -56,7 +56,7 @@ body {
   background: #000000;
   border-color: black;
 }
-#bar4{
+#bar4 {
   position: absolute;
   width: 3px;
   height: 4px;
@@ -65,7 +65,7 @@ body {
   background: #000000;
   border-color: black;
 }
-.cellularbar {
+.cellularbar{
   position: relative;
   float: right;
 }
