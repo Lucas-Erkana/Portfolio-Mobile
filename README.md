@@ -14,7 +14,7 @@ build the first 2 sections of the mobile website using the template you chose in
 
 ## Live Demo (if available)
 
-[Live Demo Link](https://livedemo.com)
+[Live Demo Link]([https://livedemo.com](https://lucash2022.github.io/Portfolio-mobile-version-/))
 
 
 ## Getting Started
